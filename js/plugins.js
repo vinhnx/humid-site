@@ -22,30 +22,3 @@
 }());
 
 // Place any jQuery/helper plugins in here.
-
-    $(function() {
-
-    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-     $('.left').slidesjs({
-        width: 240,
-        height: 508,
-        navigation: false,
-        play: {
-          active: false,
-          auto: false
-        }
-      });
-    }else{
-      $('.left').slidesjs({
-        width: 240,
-        height: 508,
-        navigation: false,
-        play: {
-          active: false,
-          auto: true,
-          interval: 4000,
-          pauseOnHover: true
-        }
-      });
-    }
-    });
