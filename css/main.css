@@ -180,21 +180,13 @@ a:active,a:visited:active {
 
 .container {
   margin: 5rem 15%;
+  clear: both;
 }
 
 .left {
   float: left;
 }
 
-.left img {
-
-
-  -webkit-animation: wala 0.5s ease-in-out normal;
-  -moz-animation: wala 0.5s ease-in-out normal;
-  -ms-animation: wala 0.5s ease-in-out normal;
-  -o-animation: wala 0.5s ease-in-out normal;
-  animation: wala 0.5s ease-in-out normal
-}
 
 .right {
   float: left;
