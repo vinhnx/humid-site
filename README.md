@@ -1,4 +1,4 @@
-![demo](https://raw.github.com/vinhnx/humid-site/gh-pages/img/Icon.png) humid-site
+![demo](https://raw.github.com/vinhnx/humid-site/gh-pages/img/icon.png) humid-site
 ==============
 
 Public site for Humud
