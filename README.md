@@ -1,7 +1,7 @@
-![demo](https://raw.github.com/vinhnx/humid-site/gh-pages/img/icon.png) humid-site
+![demo](https://raw.github.com/vinhnx/humid-site/gh-pages/img/icon.png)
 ==============
 
-Public site for Humud
+Public site for Humid
 
 + Visit our [Landing Site](http://vinhnx.github.io/humid-site)
 
@@ -9,4 +9,4 @@ Public site for Humud
 
 -- 
 
-Thanks for your visit!
+Thanks for your visit! :)
