@@ -1,7 +1,7 @@
 ![demo](https://raw.github.com/vinhnx/humid-site/gh-pages/img/icon.png)
 ==============
 
-Public site for Humid
+Public site for Humid, a weather forecast app
 
 + Visit our [Landing Site](http://vinhnx.github.io/humid-site)
 
